@@ -1,7 +1,7 @@
 # Starbucks Capstone Challenge
 Udacity StarBucks Capstone Project.
 # Blog Post :
-https://medium.com/@razanalharbi9090/optimizing-app-offers-with-starbucks-e039fbd3bc27
+ https://medium.com/@razanalharbi9090/optimizing-app-offers-with-starbucks-e039fbd3bc27
 # Introduction
 This project part of Data Science Nanodegree where I try to analyse the problem from the given dataset and will present the ML solution to  problem for the Starbucks.
 # Project Overview
